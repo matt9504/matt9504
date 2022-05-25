@@ -10,4 +10,4 @@
  
  ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white) ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
  
- ![Hojuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt9504&hide=contribs,prs&theme=dark)
+ ![Hojuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt9504&show=contribs,prs&theme=dark)
